@@ -71,6 +71,7 @@ function playRound() {
          }
     }
 
+    
     if ( (humanChoice === "1" && compChoice === "2") || 
     (humanChoice === "2" && compChoice === "3") ||
     (humanChoice === "3" && compChoice === "1")) {
